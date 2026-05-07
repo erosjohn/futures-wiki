@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "localhost",
+    baseUrl: "futures-wiki.erosjohn09.workers.dev",
     ignorePatterns: ["private", "templates", ".obsidian", "raw"],
     defaultDateType: "created",
     theme: {
