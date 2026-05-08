@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": ["/static/*"],
+  "fallback": {
+    "rewrite": "/index.html"
+  }
+}
