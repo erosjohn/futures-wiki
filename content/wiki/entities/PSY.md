@@ -1,6 +1,10 @@
 ---
-title: "PSY"
-tags: [实体, 概念, 生产效率]
+title: PSY
+
+tags:
+  - 实体
+  - 概念
+  - 生产效率
 created: 2026-05-07
 updated: 2026-05-07
 sources: 
